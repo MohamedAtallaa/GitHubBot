@@ -2,7 +2,7 @@
 
 
     
-Based on GitHub API, GitBot is an app to search for GitHub users and get info about them. You can save users in favorite list using UserDefaults. The app is done completely programmatically with UIKit without any storyboards or xib files.      
+Based on GitHub API, GitHubBot is an app to search for GitHub users and get info about them. You can save users in favorite list using UserDefaults. The app is done completely programmatically with UIKit without any storyboards or xib files.      
  
  
  
